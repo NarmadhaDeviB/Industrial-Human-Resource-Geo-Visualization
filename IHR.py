@@ -227,32 +227,3 @@ if selected == "Data Visualization":
       
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
